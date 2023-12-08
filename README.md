@@ -1,4 +1,6 @@
-# Cython example
+# Example code in Cython
+
+A simple example program in Cython showing its syntax, including static types and use of C built-in functions.  
 
 ## Notes:
 
